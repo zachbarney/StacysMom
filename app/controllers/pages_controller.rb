@@ -7,4 +7,17 @@ class PagesController < ApplicationController
 
   def team
   end
+
+   def Progress
+  end
+
+  def Nutrition
+  end
+
+  def Workouts
+  end
+
+  def Content
+  end
 end
+
